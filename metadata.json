@@ -1,0 +1,6 @@
+{
+  "name": "Sarban AI Studio",
+  "description": "A comprehensive AI-powered social media creator platform with content generation, viral ideas, scripting, analytics and planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
